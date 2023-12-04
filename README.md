@@ -1,6 +1,9 @@
 # hautausmaa (Tilastokeskuksen avointa dataa kayttava projekti)
 
 Power BI -projekti, jossa visualisoidaan Tilastokeskuksen avointa dataa suomalaisten kuolinsyistä ja yhdistetään sita Tilastokeskuksen vaestorakenne-dataan.
+
+Lopputuote sopii käytettäväksi esim. historian ja terveystieteen opiskelijoille.
+
 Data valikoitui projektiin runsaan muuttujamäärän vuoksi siita huolimatta, etta data on aggregoitua: vuosi, sukupuolimuuttuja ja ikaluokkamuuttuja yhdistettyna n. 50 eri kuolinsyykategoriaan. 
 Datasetit (Tilastokeskuksen avoin data):
 - Vaestorakenne
